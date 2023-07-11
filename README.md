@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**yba00/yba00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yba00/yba00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on yohttps://github.com/yba00/yba00/edit/main/README.mdur GitHub profile.
 
 Here are some ideas to get you started:
 
